@@ -2,5 +2,9 @@
 
 int mod(int x, int y) //³ª¸ÓÁö
 {
-	return 0;
+	int d = 0;
+	while (x >= y) {
+		d = sub(x, y);
+	}
+	return d;
 }
