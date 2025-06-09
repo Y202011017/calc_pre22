@@ -2,5 +2,5 @@
 
 int sub(int x, int y) //»©±â
 {
-	return x+y;
+	return x-y;
 }
