@@ -1,6 +1,6 @@
 #include "add.h"
 
 int add(int x, int y) // ´õÇÏ±â
-{
-	return 0;
+{ 	
+	return x+y;
 }
